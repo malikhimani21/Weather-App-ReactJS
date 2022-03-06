@@ -1,0 +1,12 @@
+install 
+
+- npm i axios
+
+https://mui.com/
+ 
+- npm install @mui/material @emotion/react @emotion/styled
+
+https://home.openweathermap.org/api_keys - API - 23726c1dfd5390119fb4be6172b75838
+
+npm install @material-ui/core 
+npm install @material-ui/icons
